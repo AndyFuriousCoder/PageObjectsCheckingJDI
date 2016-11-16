@@ -1,2 +1,0 @@
-# PageObjectsCheckingJDI
-PageObjectsCheckingJDI
